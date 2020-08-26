@@ -1,0 +1,20 @@
+\\Mac\Home\Pictures\Organizacion Computacional\PFinalVS copy\PFinalVS\bin\Debug\PFinalVS.exe.config
+\\Mac\Home\Pictures\Organizacion Computacional\PFinalVS copy\PFinalVS\bin\Debug\PFinalVS.exe
+\\Mac\Home\Pictures\Organizacion Computacional\PFinalVS copy\PFinalVS\bin\Debug\PFinalVS.pdb
+\\Mac\Home\Pictures\Organizacion Computacional\PFinalVS copy\PFinalVS\obj\Debug\PFinalVS.csprojAssemblyReference.cache
+\\Mac\Home\Pictures\Organizacion Computacional\PFinalVS copy\PFinalVS\obj\Debug\PFinalVS.Form1.resources
+\\Mac\Home\Pictures\Organizacion Computacional\PFinalVS copy\PFinalVS\obj\Debug\PFinalVS.Properties.Resources.resources
+\\Mac\Home\Pictures\Organizacion Computacional\PFinalVS copy\PFinalVS\obj\Debug\PFinalVS.csproj.GenerateResource.cache
+\\Mac\Home\Pictures\Organizacion Computacional\PFinalVS copy\PFinalVS\obj\Debug\PFinalVS.csproj.CoreCompileInputs.cache
+\\Mac\Home\Pictures\Organizacion Computacional\PFinalVS copy\PFinalVS\obj\Debug\PFinalVS.exe
+\\Mac\Home\Pictures\Organizacion Computacional\PFinalVS copy\PFinalVS\obj\Debug\PFinalVS.pdb
+\\Mac\Home\Pictures\Organizacion Computacional\Proyecto Final Visual\PFinalVS\bin\Debug\PFinalVS.exe.config
+\\Mac\Home\Pictures\Organizacion Computacional\Proyecto Final Visual\PFinalVS\bin\Debug\PFinalVS.exe
+\\Mac\Home\Pictures\Organizacion Computacional\Proyecto Final Visual\PFinalVS\bin\Debug\PFinalVS.pdb
+\\Mac\Home\Pictures\Organizacion Computacional\Proyecto Final Visual\PFinalVS\obj\Debug\PFinalVS.csprojAssemblyReference.cache
+\\Mac\Home\Pictures\Organizacion Computacional\Proyecto Final Visual\PFinalVS\obj\Debug\PFinalVS.Form1.resources
+\\Mac\Home\Pictures\Organizacion Computacional\Proyecto Final Visual\PFinalVS\obj\Debug\PFinalVS.Properties.Resources.resources
+\\Mac\Home\Pictures\Organizacion Computacional\Proyecto Final Visual\PFinalVS\obj\Debug\PFinalVS.csproj.GenerateResource.cache
+\\Mac\Home\Pictures\Organizacion Computacional\Proyecto Final Visual\PFinalVS\obj\Debug\PFinalVS.csproj.CoreCompileInputs.cache
+\\Mac\Home\Pictures\Organizacion Computacional\Proyecto Final Visual\PFinalVS\obj\Debug\PFinalVS.exe
+\\Mac\Home\Pictures\Organizacion Computacional\Proyecto Final Visual\PFinalVS\obj\Debug\PFinalVS.pdb
